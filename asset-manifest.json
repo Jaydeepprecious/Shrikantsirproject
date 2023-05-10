@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SHRIKANTSIRPROJECT/static/css/main.f49d9a09.css",
+    "main.js": "/SHRIKANTSIRPROJECT/static/js/main.1fde3ea8.js",
+    "static/js/787.be73f74f.chunk.js": "/SHRIKANTSIRPROJECT/static/js/787.be73f74f.chunk.js",
+    "index.html": "/SHRIKANTSIRPROJECT/index.html",
+    "main.f49d9a09.css.map": "/SHRIKANTSIRPROJECT/static/css/main.f49d9a09.css.map",
+    "main.1fde3ea8.js.map": "/SHRIKANTSIRPROJECT/static/js/main.1fde3ea8.js.map",
+    "787.be73f74f.chunk.js.map": "/SHRIKANTSIRPROJECT/static/js/787.be73f74f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49d9a09.css",
+    "static/js/main.1fde3ea8.js"
+  ]
+}
